@@ -1,5 +1,8 @@
 #Ignorer tous les fichiers .log
 *.log
 
-# Ignorer tous les fichiers .log sous le répertoire "/logs/"
+#Ignorer tous les fichiers .log sous le répertoire "/logs/"
 /logs/*.log
+
+#Ignorer fichier .DS_Store
+.DS_Store
